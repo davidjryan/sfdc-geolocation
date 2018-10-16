@@ -32,44 +32,42 @@
     [
         "/Users/davidryan/Code/geolocation/force-app/main/default",
         {
-            "state": "u",
             "sourcePath": "/Users/davidryan/Code/geolocation/force-app/main/default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 256,
             "modifiedTime": 1539714192948,
             "changeTime": 1539714192948,
-            "contentHash": "8d4a9a94672f3c47f2fa4df8ea9948d361c224f2"
+            "contentHash": "8d4a9a94672f3c47f2fa4df8ea9948d361c224f2",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/davidryan/Code/geolocation/force-app/main/default/aura",
         {
+            "state": "u",
             "sourcePath": "/Users/davidryan/Code/geolocation/force-app/main/default/aura",
             "isDirectory": true,
-            "size": 64,
-            "modifiedTime": 1539123406083,
-            "changeTime": 1539123406083,
-            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
             "isMetadataFile": false,
-            "state": "u",
+            "size": 96,
+            "modifiedTime": 1539714510655,
+            "changeTime": 1539714510655,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "4c01eade869b72bbd66cfccee570a524d94497f7"
         }
     ],
     [
         "/Users/davidryan/Code/geolocation",
         {
+            "state": "u",
             "sourcePath": "/Users/davidryan/Code/geolocation",
             "isDirectory": true,
-            "size": 320,
-            "modifiedTime": 1539708018441,
-            "changeTime": 1539708018441,
-            "contentHash": "62533bf04610bd2b3dd430aef44fc35fe8f23ec0",
             "isMetadataFile": false,
-            "state": "u",
+            "size": 352,
+            "modifiedTime": 1539713163400,
+            "changeTime": 1539713163400,
             "isWorkspace": true,
-            "isArtifactRoot": false
+            "contentHash": "93b303fc40e3602ad1121ea06637359011521e16"
         }
     ],
     [
@@ -283,40 +281,170 @@
     [
         "/Users/davidryan/Code/geolocation/force-app/main/default/classes",
         {
-            "state": "u",
             "sourcePath": "/Users/davidryan/Code/geolocation/force-app/main/default/classes",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 128,
             "modifiedTime": 1539714192967,
             "changeTime": 1539714192967,
-            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42"
+            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/davidryan/Code/geolocation/force-app/main/default/classes/AccountController.cls",
         {
-            "state": "u",
             "sourcePath": "/Users/davidryan/Code/geolocation/force-app/main/default/classes/AccountController.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 293,
             "modifiedTime": 1539714252970,
             "changeTime": 1539714252970,
-            "contentHash": "8fde073151082df06ee0dfccf1250ef72d79271e"
+            "contentHash": "8fde073151082df06ee0dfccf1250ef72d79271e",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/davidryan/Code/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/davidryan/Code/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 195,
             "modifiedTime": 1539714192968,
             "changeTime": 1539714192968,
-            "contentHash": "02c1ba89ec2301879da4df59a69dc5111c8837d6"
+            "contentHash": "02c1ba89ec2301879da4df59a69dc5111c8837d6",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/davidryan/Code/geolocation/force-app/main/default/aura/AccountLocator",
+        {
+            "state": "u",
+            "sourcePath": "/Users/davidryan/Code/geolocation/force-app/main/default/aura/AccountLocator",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 352,
+            "modifiedTime": 1539714510658,
+            "changeTime": 1539714510658,
+            "contentHash": "bd7161f8b78fb71785cf2b56d7038280fc9b4ca5"
+        }
+    ],
+    [
+        "/Users/davidryan/Code/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.auradoc",
+        {
+            "state": "u",
+            "sourcePath": "/Users/davidryan/Code/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1539714510658,
+            "changeTime": 1539714510658,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
+        }
+    ],
+    [
+        "/Users/davidryan/Code/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/davidryan/Code/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 157,
+            "modifiedTime": 1539714585155,
+            "changeTime": 1539714585155,
+            "contentHash": "0156aa8f69e1e3c49a79f55b0b4559078c85787d"
+        }
+    ],
+    [
+        "/Users/davidryan/Code/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/davidryan/Code/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 246,
+            "modifiedTime": 1539714510656,
+            "changeTime": 1539714510656,
+            "contentHash": "83ff4d0b87ed5f90f60645958ed6ed7348c82a24"
+        }
+    ],
+    [
+        "/Users/davidryan/Code/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/davidryan/Code/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 114,
+            "modifiedTime": 1539714644005,
+            "changeTime": 1539714644005,
+            "contentHash": "2328b9d86912304ce18f810ad4c8ff6f7a2f0a1a"
+        }
+    ],
+    [
+        "/Users/davidryan/Code/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.design",
+        {
+            "state": "u",
+            "sourcePath": "/Users/davidryan/Code/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1539714510658,
+            "changeTime": 1539714510658,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
+        }
+    ],
+    [
+        "/Users/davidryan/Code/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.svg",
+        {
+            "state": "u",
+            "sourcePath": "/Users/davidryan/Code/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1539714510658,
+            "changeTime": 1539714510658,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
+        }
+    ],
+    [
+        "/Users/davidryan/Code/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/davidryan/Code/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1539714510656,
+            "changeTime": 1539714510656,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf"
+        }
+    ],
+    [
+        "/Users/davidryan/Code/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/davidryan/Code/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1539714510657,
+            "changeTime": 1539714510657,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+        }
+    ],
+    [
+        "/Users/davidryan/Code/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/davidryan/Code/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1539714510657,
+            "changeTime": 1539714510657,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
         }
     ]
 ]
